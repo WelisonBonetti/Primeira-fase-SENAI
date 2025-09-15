@@ -8,10 +8,10 @@
 // alert(idade)
 // idade = "DEZOITO"
 // alert(idade)
-const amor = "meu primeiro amor"
-alert(amor)
-let amor2 ="meu segundo amor"
-alert(amor2)
+//const amor = "meu primeiro amor"
+//alert(amor)
+//let amor2 ="meu segundo amor"
+//alert(amor2)
 
 
 
